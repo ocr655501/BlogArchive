@@ -1,5 +1,6 @@
 ## Blog ★ Archive
----------
+
+Original Owner: [OCR655501][1]
 
 **Not an academic repository, not a code repository.**
 
@@ -15,7 +16,7 @@ If you are curious about this and you can directly read Chinese, you may have a 
 
 Though open source, in order to prevent unnecessary network conflicts, repost any article **outside GitHub** is prohibited. Please, don't comment any content in my other repositories. Sorry for inconvenience.
 
----------
+-------------
 
 **非学术仓库、非代码仓库。**
 
@@ -29,4 +30,6 @@ Though open source, in order to prevent unnecessary network conflicts, repost an
 
 如果你对这个仓库感兴趣，看看也是没问题的，即便这里面一堆黑历史。
 
-虽然是开放源代码，但为了防止不必要的互联网争端，其中的文章**禁止转载**到站外，同时也谢绝在其他仓库提到本仓库的任何内容，带来不便还请谅解。
+虽然是开放源代码，但为了防止不必要的互联网争端，其中的文章**禁止转载**到站外，同时也谢绝在其他仓库提到本仓库的任何内容，带来不便还请谅解.
+
+  [1]: https://github.com/ocr655501/
