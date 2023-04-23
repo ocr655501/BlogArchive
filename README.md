@@ -14,7 +14,7 @@ Sorry if it disturbs or even annoys you seeking my codes.
 
 If you are curious about this and you can directly read Chinese, you may have a look at my trash history.
 
-Though open source, in order to prevent unnecessary network conflicts, repost any article **outside GitHub** is prohibited. Please, don't comment any content in my other repositories. Sorry for inconvenience.
+Though open source, in order to avoid unnecessary network conflicts, repost any article **outside GitHub** is prohibited. Please, don't comment any content in my other repositories. Sorry for inconvenience.
 
 -------------
 
